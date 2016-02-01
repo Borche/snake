@@ -1,2 +1,2 @@
-# snake-libgdx
-Android game developed with the game development framework libgdx
+# Snake
+The classic game Snake implemented on Android using the game development framework LibGDX
